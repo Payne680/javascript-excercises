@@ -1,8 +1,3 @@
-
-
-
-
-
 //functions
 function Person () {
     this.name =  'malone'
